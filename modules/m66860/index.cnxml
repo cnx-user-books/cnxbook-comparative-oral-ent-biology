@@ -1,0 +1,276 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction to Sound</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66860</md:content-id>
+  <md:title>Introduction to Sound</md:title>
+  <md:abstract>Sound is a traveling disturbance in an elastic medium. It is a mechanical wave characterized by amplitude, frequency and phase. The simplest waves are sinusoids. When sinusoids of different frequencies occur together, they interfere forming complex waves. Natural sounds are mostly complex waves. They can be factored into a set of sinusoids, which frequently form a harmonic structure. Vocal fold usually produce a harmonic structure and the amplitudes of the harmonics are modified by resonances in the vocal tract. Oscillograms, amplitude spectra and spectrograms are the graphical representations most commonly employed to visualize sound. The range of sound intensities that vertebrate hearing systems are sensitive to is very wide. Sound intensities and sound pressures are most frequently expressed as levels, using the decibel scale. If either the source or the receiver of the sound are in movement the perceived frequency is shifted due to the Doppler effect.</md:abstract>
+  <md:uuid>4c8a7285-d47f-4889-9635-46f7b6491424</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm438151040">The physical phenomenon of sound is a disturbance of matter that is transmitted from its source outward. Sound is a wave. On the atomic scale, sound is a mechanical disturbance of atoms. </para>
+    <para id="import-auto-idm505691760">A speaker produces a sound wave by oscillating a cone, causing vibrations of air molecules. As it oscillates back and forth, part of the speaker’s energy goes into compressing and expanding the surrounding air, creating slightly higher and lower local pressures. These compressions (high-pressure regions) and rarefactions (low-pressure regions) move out as longitudinal pressure waves having the same frequency as the speaker. They are the disturbance that forms the sound wave. </para>
+    <figure id="import-auto-idm1568048656"><media id="import-auto-idm205456336" alt="">
+        <image mime-type="image/png" src="../../media/Image5-e81f.png" height="177" width="402"/>
+      </media>
+    <caption>Vibrations produced in air by the cone of a loudspeaker. As the speaker oscillates, a series of compressions and rarefactions moves out as a sound wave. Left. The red graph shows the gauge pressure of the air versus the distance from the speaker. Right. The blue graph shows the displacement of the air molecules versus the position from the speaker. <link url="https://cnx.org/resources/fef554c2c774546e75bd3edb87f0e7d519842954">More details</link>.</caption></figure><para id="import-auto-idm606718448">The amplitude of a sound wave decreases with distance from its source, because the energy of the wave is spread over a larger and larger area. The energy is also absorbed by objects and converted into thermal energy by the viscosity of the air. In addition, during each compression, a little heat transfers to the air while during each rarefaction even less heat transfers from the air. These heat transfers reduce the energy in the sound until it dies off.</para>
+    <section id="import-auto-idm623742768">
+      <title>Properties of sound</title>
+      <section id="import-auto-idm627345824">
+        <title>Amplitude, frequency and phase</title>
+        <para id="import-auto-idm632314608">The simplest sounds are sinusoid wave which can be described by three properties: amplitude, frequency and phase. Amplitude is the air pressure or molecule position at a given moment in relation to the condition without sound. It is constantly oscillating between positive and negative values around the baseline. It is most commonly measured as sound pressure with a microphone and expressed in pascals (Pa). Frequency is the number of cycles (waves) produced by unit of time. It is expressed in hertz (Hz). Phase is the position of the wave in the cycle at a given moment and it is expressed in degrees or in radians.</para>
+        <para id="import-auto-idm443925504">The amplitude of a wave is the height of a wave as measured from the highest point on the wave (peak or crest) to the baseline. It is sometimes measured from the positive peak to the negative peak (trough) and referred to as peak-to-peak amplitude. </para>
+        <figure id="import-auto-idm529551472"><media id="import-auto-idm240286128" alt="">
+            <image mime-type="image/png" src="../../media/Image12-b510.png" height="164" width="375"/>
+          </media>
+        <caption>Some properties of a sound wave. <link url="https://cnx.org/resources/06815b111b47af7c21b025baeb8494115be85080">More details</link>.</caption></figure><para id="import-auto-idm646824144">Wavelength is the inverse of frequency (wavelength = 1/frequency) and it refers to the length of a wave (expressed in meters) from one peak to the next. Period is is also measured between peaks but in time. It quantifies the duration of a cycle and is expressed in seconds.</para>
+        <figure id="import-auto-idm592675056"><media id="import-auto-idm469729248" alt="">
+            <image mime-type="image/png" src="../../media/Image2-e9d4.png" height="170" width="509"/>
+          </media>
+        <caption>Waves with various  wavelengths or frequencies. Sounds with short wavelength have high frequency and vice-versa. <link url="https://cnx.org/resources/e2011b502808ff751fc90883eef9ec20d3e1979d/CNX_Psych_05_02_Frequencies.jpg">More details</link>.</caption></figure></section>
+      <section id="import-auto-idm487506000">
+        <title>Summation and factoring of waves</title>
+        <para id="import-auto-idm716911632">The simplest waves may be created by a simple oscillation and have a sinusoidal shape with all the energy contained in a single frequency. Most natural waves do not look very simple though. They appear complex because they result from several sinusoid waves adding together. Luckily, the rules for adding waves are quite simple.</para>
+        <para id="import-auto-idm206819360">When two or more waves arrive at the same point, they superimpose themselves on one another. The resulting wave is a simple addition of the disturbances of the individual waves. If the disturbances are along the same line, the wave amplitudes will sum up to a higher value. If the disturbances go in opposite directions, they cancel each other out.</para>
+        <figure id="import-auto-idm498312352"><media id="import-auto-idm254398544" alt="">
+            <image mime-type="image/png" src="../../media/Image9-4380.png" height="132" width="228"/>
+          </media>
+        <caption>Interference between two identical waves produces a wave with doubled amplitude but the frequency is not changed. This is called constructive interference. <link url="https://cnx.org/resources/52de2733fb2b165f2a8c57feb4771701513955a6/Figure_17_10_02a.jpg">More details</link>.</caption></figure><figure id="import-auto-idm452171184"><media id="import-auto-idm1692599376" alt="">
+            <image mime-type="image/png" src="../../media/Image10-afc4.png" height="137" width="224"/>
+          </media>
+        <caption>Interference between two waves that are identical except for having opposite phases produces zero amplitude (complete cancellation). This is called destructive interference.  <link url="https://cnx.org/resources/390362636503581374c3d9ac5fb0a360a550987e/Figure_17_10_03a.jpg">More details</link>.</caption></figure><para id="import-auto-idm748332544">While pure constructive and pure destructive interference do occur, they require precisely aligned identical waves. The superposition of most waves produces a combination of constructive and destructive interference and can vary from place to place and time to time. Sound from a stereo, for example, can be loud in one spot and quiet in another. Varying loudness means the sound waves add partially constructively and partially destructively at different locations. A stereo has at least two speakers creating sound waves, and waves can reflect from walls. All these waves superimpose. </para>
+        <figure id="import-auto-idm503745536"><media id="import-auto-idm207513024" alt="">
+            <image mime-type="image/png" src="../../media/Image11-8eca.png" height="139" width="149"/>
+          </media>
+        <caption>Superposition of non-identical waves exhibits both constructive and destructive interference and usually results in a complex wave. <link url="https://cnx.org/resources/3de04b0d7921a08669f2480f0cd2cfc57e6e3e8d/Figure_17_10_04a.jpg">More details</link>.</caption></figure><para id="import-auto-idm635332336">Any number of sinusoidal waves can be summed to form a single complex wave. Likewise, any complex wave can be decomposed into a set of sinusoids. The math for the decomposition is not that simple, however. It is most frequency calculated with a Fast Fourier Transform (FFT). The frequency content is not calculated over a point in time, but over a period, because the FFT quantifies periodic disturbances. This process involves a trad-off in which frequency resolution is increased with the input of longer segments of signal, whereas time resolution is improved using shorter segments of sound.</para>
+        <para id="import-auto-idm608792416">A plot of the wave form having time in the abscissa and amplitude in the ordinate is called an oscillogram. This representation of sound is ideal for examination of onset, offset, trills and modulations (changes) in sound amplitude. Frequency can be easily determined in signals formed by a single sinusoid but it quickly become impossible to quantify the frequency content when the wave is complex.</para>
+        <para id="import-auto-idm494787680">Factoring the complex wave through an FFT allows one to plot frequency in the abscissa and amplitude in the ordinate. This is called an amplitude spectrum (or power spectrum). This representation allows for a direct quantitative visualization of the amplitude of each frequency in the sound. But it does not incorporate time.</para>
+        <figure id="import-auto-idm507291600"><media id="import-auto-idm1551875184" alt="">
+            <image mime-type="image/png" src="../../media/Image1-9c04.png" height="223" width="225"/>
+          </media>
+        <caption>Graphical representations of a single pulsed chirp from the advertisement call of a cricket frog from Texas. Oscillogram on top, spectrogram in the middle and amplitude spectrum at the bottom. The amplitudes are relative measurements because the recordings were not calibrated to reflect absolute sound pressure. </caption></figure><para id="import-auto-idm403647280">In order to visualize frequency modulation (change in frequency over time) a spectrogram (sometimes called sonogram for sound) is used. This is a 3D plot with time in the abscissa, frequency in the ordinate and amplitude encoded in color or darkness of the trace. It is formed by a series of FFTs calculated from successive segments of sound. They are frequency calculated with some overlap to produce a smoother graphical representation.</para>
+      </section>
+      <section id="import-auto-idm238350864">
+        <title>Harmonics</title>
+        <para id="import-auto-idm731867984">Natural vibrating structures tend not to produce perfectly symmetric movements in each direction and the shape of the resulting wave is seldom sinosoidal. Since a simple sound with all the energy in a single frequency must be sinusoidal, this means that natural sounds tend to be a combination of many frequencies. When the waves produced by natural sources are factored through FFT, the result is commonly a harmonic structure.</para>
+        <para id="import-auto-idm717401936">A set of equally-spaced energy bands is characteristic of a harmonic structure when examined in an amplitude spectrum or spectrogram. The difference in frequency between bands of energy is constant and all frequency bands are integer multiples of a fundamental frequency. For example, for a fundamental frequency = 100 Hz, H2 = 200 Hz, H3 = 300 Hz, H4 = 400 Hz, etc.</para>
+        <figure id="import-auto-idm210294400"><media id="import-auto-idm434951888" alt="">
+            <image mime-type="image/png" src="../../media/Image3-52de.png" height="149" width="222"/>
+          </media>
+        <caption>The <link url="https://en.wikipedia.org/wiki/Spectrogram">spectrogram</link> of the human voice reveals its rich <link url="https://en.wikipedia.org/wiki/Harmonic">harmonic</link> content. <link url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Human_voice_spectrogram.jpg">More details</link>.</caption></figure><para id="import-auto-idm484831024">In vocal systems, vibration of the vocal folds tends to produce sounds with an extensive harmonic structure having the most energy in the fundamental frequency and gradually fading levels of energy in the upper harmonics. Resonances and filtering in the vocal tract, however (see below) can profoundly alter the amount of energy in each harmonic. The fundamental frequency could even go missing from the final output whereas higher harmonics could be emphasized. The most energetic frequency (be it the fundamental or some other harmonic) is called the dominant frequency. </para>
+      </section>
+      <section id="import-auto-idm504322944">
+        <title>Sound intensity and pressure</title>
+        <para id="import-auto-idm213485952">In a quiet forest, you can sometimes hear a single leaf fall to the ground. After settling into bed, you may hear your blood pulsing through your ears. But when a passing motorist has his stereo turned up, you cannot even hear what the person next to you in your car is saying. We are all very familiar with the loudness of sounds and aware that they are related to how energetically the source is vibrating. In cartoons depicting a screaming person (or an animal making a loud noise), the cartoonist often shows an open mouth with a vibrating uvula, the hanging tissue at the back of the mouth, to suggest a loud sound coming from the throat. High noise exposure is hazardous to hearing, and it is common for musicians to have hearing losses that are sufficiently severe that they interfere with the musicians’ abilities to perform. The relevant physical quantity is sound intensity, a concept that is valid for all sounds whether or not they are in the audible range.</para>
+        <para id="import-auto-idm1569262960">Intensity is defined to be the power per unit area carried by a wave. Power is the rate at which energy is transferred by the wave. In equation form, intensity <emphasis effect="italics">I</emphasis><emphasis effect="italics">=</emphasis><emphasis effect="italics">P</emphasis><emphasis effect="italics">A</emphasis><emphasis effect="italics">,</emphasis><emphasis effect="italics"/>where <emphasis effect="italics">P</emphasis><emphasis effect="italics"/>is the power through an area <emphasis effect="italics">A</emphasis>. The SI unit for <emphasis effect="italics">I</emphasis> is W/m2 . </para>
+        <figure id="import-auto-idm635301824"><media id="import-auto-idm483983168" alt="">
+            <image mime-type="image/png" src="../../media/Image4-0407.png" height="157" width="152"/>
+          </media>
+        <caption>Graphs of the gauge pressures in two sound waves of different intensities. The more intense sound is produced by a source that has larger-amplitude oscillations and has greater pressure maxima and minima. Because pressures are higher in the greater-intensity sound, it can exert larger forces on the objects it encounters. <link url="https://cnx.org/resources/a9ca2e832a73f78d4a3189c85994e948ecc1b90a/Figure_18_03_01ab.jpg">More details</link>.</caption></figure><para id="import-auto-idm223309552">Sound intensities are measured in watts per meter squared. More frequently, however, sound intensities are approximated from sound pressure measurements which can be obtained using simple microphones. They are not the same, however: intensity is a property of a sound, whereas sound pressure is a property of the environment. The measured sound pressure is formed by the interaction of all sound sources present in an environment at a given moment. </para>
+        <para id="import-auto-idm490173568">Sound pressure levels are quoted in decibels (dB) much more often than in pascals (Pa). Decibels are the unit of choice in the scientific literature as well as in the popular media. The decibel scale has interesting characteristics. It is logarithmic, which makes it compress the variation in the data. This allows us to plot sounds separated by a 10,000 fold difference in amplitude within the same figure. This is also intuitive because when we perceive sound amplitude differences as equally spaced, they are actually multiples of each other. The other feature of the decibel scale is that values are expressed in levels which are ratios of the measured amplitude of a sound by that of a reference. When comparing sound pressures of two sounds, the decibel level expresses the amplitude of one sound in relation to the other. Ex: The sound pressure was reduced by 30 dB after the ear plugs were installed. When the sound pressure of a single sound is to be characterized, it is usually compared to the threshold of human hearing at 1000 Hz (0.00002 Pa). </para>
+        <para id="import-auto-idm461740240">The sound pressure level is defined as  <emphasis effect="italics">β</emphasis>(dB)=20*log10(P<emphasis effect="italics">/</emphasis><emphasis effect="italics">Pref</emphasis>), where <emphasis effect="italics">Pref </emphasis>is a reference sound pressure. As a ratio, the decibel level is a unitless quantity telling you the level of the sound relative to a fixed standard. It is widely used not only for sound pressure but also for intensity and power. The decibel sign (dB) is used to indicate this ratio. The bel, upon which the decibel is based, is named for Alexander Graham Bell, the inventor of the telephone. </para>
+        <table id="import-auto-idm1543035856" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <thead>
+              <row>
+                <entry>Sound pressure level (dB)</entry>
+                <entry>Sound pressure (Pa)</entry>
+                <entry>Example</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>0</entry>
+                <entry>0.00002</entry>
+                <entry>Threshold of hearing at 1000 Hz</entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>0.000063</entry>
+                <entry>Rustle of leaves</entry>
+              </row>
+              <row>
+                <entry>20</entry>
+                <entry>0.0002</entry>
+                <entry>Whisper at 1-m distance</entry>
+              </row>
+              <row>
+                <entry>30</entry>
+                <entry>0.00063</entry>
+                <entry>Quiet home</entry>
+              </row>
+              <row>
+                <entry>40</entry>
+                <entry>0.002</entry>
+                <entry>Average home</entry>
+              </row>
+              <row>
+                <entry>50</entry>
+                <entry>0.0063</entry>
+                <entry>Average office, soft music</entry>
+              </row>
+              <row>
+                <entry>60</entry>
+                <entry>0.02</entry>
+                <entry>Normal conversation</entry>
+              </row>
+              <row>
+                <entry>70</entry>
+                <entry>0.063</entry>
+                <entry>Noisy office, busy traffic</entry>
+              </row>
+              <row>
+                <entry>80</entry>
+                <entry>0.2</entry>
+                <entry>Loud radio, classroom lecture</entry>
+              </row>
+              <row>
+                <entry>90</entry>
+                <entry>0.63</entry>
+                <entry>Inside a heavy truck</entry>
+              </row>
+              <row>
+                <entry>100</entry>
+                <entry>2</entry>
+                <entry>Noisy factory, siren at 30 m</entry>
+              </row>
+              <row>
+                <entry>110</entry>
+                <entry>6.3</entry>
+                <entry>Damage from 30 min per day exposure</entry>
+              </row>
+              <row>
+                <entry>120</entry>
+                <entry>20</entry>
+                <entry>Loud rock concert; threshold of pain</entry>
+              </row>
+              <row>
+                <entry>140</entry>
+                <entry>200</entry>
+                <entry>Jet airplane at 30 m</entry>
+              </row>
+              <row>
+                <entry>160</entry>
+                <entry>2000</entry>
+                <entry>Bursting of eardrums</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="import-auto-idm521125712">Each factor of 10 in sound pressure corresponds to 20 dB. For example, an 8 0 dB sound compared with a 60 dB sound has 2 0 dB higher level and generates 10 times more sound pressure. Another rule of thumb is that a 6 dB increase or decrease doubles or halves the sound pressure, respectively.</para>
+      </section>
+      <section id="import-auto-idm480328512">
+        <title>Speed</title>
+        <para id="import-auto-idm454119824">Sound, like all waves, travels at a certain speed and has the properties of frequency and wavelength. You can observe direct evidence of the speed of sound while watching a fireworks display. You see the flash of an explosion well before you hear its sound and possibly feel the pressure wave, implying both that sound travels at a finite speed and that it is much slower than light.</para>
+        <figure id="import-auto-idm502271808"><media id="import-auto-idm563373664" alt="">
+            <image mime-type="image/png" src="../../media/Image6-cf81.png" height="158" width="210"/>
+          </media>
+        <caption>When a firework shell explodes, we perceive the light energy before the sound energy because sound travels more slowly than light does. <link url="https://cnx.org/resources/17446b363c89f3a4299b825b8f7b11373fe8f4cd">More details</link>.</caption></figure><para id="import-auto-idm225669152">The difference between the speed of light and the speed of sound can also be experienced during an electrical storm. The flash of lighting is often seen before the clap of thunder. You may have heard that if you count the number of seconds between the flash and the sound, you can estimate the distance to the source. Every five seconds converts to about one mile. The velocity of any wave is related to its frequency and wavelength by (v=fλ), where <emphasis effect="italics">v</emphasis> is the velocity of the wave, <emphasis effect="italics">f</emphasis> is its frequency, and λ is its wavelength. </para>
+        <figure id="import-auto-idm458800160"><media id="import-auto-idm430335600" alt="">
+            <image mime-type="image/png" src="../../media/Image7-ffd3.png" height="103" width="207"/>
+          </media>
+        <caption>A sound wave emanates from a source, such as a tuning fork, vibrating at a frequency <emphasis effect="italics">f</emphasis>. It propagates at speed <emphasis effect="italics">v</emphasis> and has a wavelength <emphasis effect="italics">λ</emphasis>. <link url="https://cnx.org/resources/abd5c8d7a607af8ad17893da77f6177f43fef5f7">More details</link>.</caption></figure><para id="import-auto-idm754674080">The table below shows that the speed of sound varies greatly among media. The speed of sound in a medium depends on how quickly vibrational energy can be transferred through it. To calculate this velocity, one needs to know the type of medium and its temperature. In general, the speed of sound in a medium equals the square root of the elastic property of the medium divided by its  inertial property. In a fluid, <emphasis effect="italics">v</emphasis>=square root(<emphasis effect="italics">B</emphasis><emphasis effect="italics">/ρ</emphasis>), where <emphasis effect="italics">B =</emphasis> bulk modulus and the <emphasis effect="italics">ρ  = </emphasis>density.</para>
+        <para id="import-auto-idm613149584">In general, the more rigid (or less compressible) the medium, the faster the speed of sound. Also, the greater the density of a medium, the slower the speed of sound. The speed of sound in air is low, because air is easily compressible. Because liquids and solids are relatively rigid and very difficult to compress, the speed of sound in such media is generally greater than in gases.</para>
+        <table id="import-auto-idm1575988608" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <thead>
+              <row>
+                <entry>Medium</entry>
+                <entry>Sound speed (m/s)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Air at 0°C</entry>
+                <entry>331</entry>
+              </row>
+              <row>
+                <entry>Air at 20°C</entry>
+                <entry>343</entry>
+              </row>
+              <row>
+                <entry>Hydrogen at 0°C</entry>
+                <entry>1290</entry>
+              </row>
+              <row>
+                <entry>Fresh water at 20°C</entry>
+                <entry>1480</entry>
+              </row>
+              <row>
+                <entry>Sea water at 20°C</entry>
+                <entry>1480</entry>
+              </row>
+              <row>
+                <entry>Human tissues</entry>
+                <entry>1480</entry>
+              </row>
+              <row>
+                <entry>Steel</entry>
+                <entry>5960</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="import-auto-idm568526128">Because the speed of sound depends on the density of the material, and the density depends on the temperature, there is a relationship between the temperature of given medium and the speed of sound in it. For air at sea level, the speed of sound is given by <emphasis effect="italics">v</emphasis>=331 * root square(1+(Temp/273)), where v= velocity in m/s, and Temp = temperature in °C. </para>
+        <para id="import-auto-idm433183024">Animals take advantage of the predictability of the propagation properties of sound in a medium. In echolocation, bats clue on to the time that it takes for the echoes of their voice to return in order to estimate the distance to nearby objects.</para>
+        <figure id="import-auto-idm513379440"><media id="import-auto-idm645819024" alt="">
+            <image mime-type="image/png" src="../../media/Image8-1b66.png" height="150" width="211"/>
+          </media>
+        <caption>A bat uses sound echoes to find its way about and to catch prey. The time for the echo to return is directly proportional to the distance. <link url="https://cnx.org/resources/62100cf41000f4088df4660048cc281b314fc2d3">More details</link>.</caption></figure></section>
+    </section>
+    <section id="import-auto-idm585859984">
+      <title>Resonance</title>
+      <para id="import-auto-idm1680558672">All sound resonances, such as in musical instruments, are due to constructive and destructive interference. Only the resonant frequencies interfere constructively to form standing waves, while others interfere destructively and are absent. From the toot made by blowing over a bottle, to the characteristic flavor of a violin’s sounding box, to the recognizability of a great singer’s voice, resonance and standing waves play a vital role.</para>
+      <para id="import-auto-idm1717018752">Suppose we hold a tuning fork near the end of a tube that is closed at the other end. If the tuning fork has just the right frequency, the air column in the tube resonates loudly, but at most frequencies it vibrates very little. This observation just means that the air column has only certain natural frequencies. A disturbance travels down the tube at the speed of sound and bounces off the closed end. If the tube is just the right length, the reflected sound arrives back at the tuning fork exactly half a cycle later, and it interferes constructively with the continuing sound produced by the tuning fork. The incoming and reflected sounds form a standing wave in the tube with greatly increased amplitude.</para>
+      <figure id="import-auto-idm755458528"><media id="import-auto-idm1979131920" alt="">
+          <image mime-type="image/png" src="../../media/Image15-6b8a.png" height="149" width="230"/>
+        </media>
+      <caption>Resonance of air in a tube closed at one end, caused by a tuning fork. A disturbance moves down the tube. <link url="https://cnx.org/resources/cb156f0c2081739dad558d8d6c464d4e05c4d0f3/Figure_18_05_03aa.jpg">More details</link>.</caption></figure><para id="import-auto-idm611296032">Resonance therefore depends on the distance between the walls of the cavity and on the speed of sound in the medium that fills it. Cavities with complex shapes like those in the human vocal tract can resonate at various frequencies. Behavioral modification of the shapes of the cavities by motion of the tongue, jaws, palate and pharynx can greatly modify the frequency content of the sounds produced by the larynx through resonance.</para>
+      <para id="import-auto-idm217483040">Given that maximum air displacements are possible at the open end and none at the closed end, there are other, shorter wavelengths that can resonate in the tube, such as the one shown in <link url="https://cnx.org/contents/jQSmhtXo@16.1:V8Zp6llX@3/Sound-Interference-and-Resonan#import-auto-id1537528">Figure</link>. Here the standing wave has three-fourths of its wavelength in the tube, or <emphasis effect="italics">L</emphasis>=(3/4)<emphasis effect="italics">λ</emphasis><emphasis effect="italics">'</emphasis>, so that <emphasis effect="italics">λ</emphasis><emphasis effect="italics">'</emphasis>=4<emphasis effect="italics">L</emphasis>/3. Continuing this process reveals a whole series of shorter-wavelength and higher-frequency sounds that resonate in the tube. We use specific terms for the resonances in any system. The lowest resonant frequency is called the fundamental, while all higher resonant frequencies are called overtones. All resonant frequencies are integral multiples of the fundamental, and they are collectively called harmonics. The fundamental is the first harmonic, the first overtone is the second harmonic, and so on. <link url="https://cnx.org/contents/jQSmhtXo@16.1:V8Zp6llX@3/Sound-Interference-and-Resonan#import-auto-id1412187">Figure</link> shows the fundamental and the first three overtones (the first four harmonics) in a tube closed at one end.</para>
+    </section>
+    <section id="import-auto-idm262771472">
+      <title>Beats</title>
+      <para id="import-auto-idm633603344">The study of music provides many examples of the superposition of waves and the constructive and destructive interference that occurs. An interesting phenomenon that occurs due to the constructive and destructive interference of two or more frequencies of sound is the phenomenon of beats. If two sounds play simultaneously with slightly different frequencies, they will oscillate between constructive and destructive interference and the resulting wave will exhibit a pulsating amplitude pattern called beating.  </para>
+      <figure id="import-auto-idm406054144"><media id="import-auto-idm484058976" alt="">
+          <image mime-type="image/png" src="../../media/Image13-08ea.png" height="287" width="415"/>
+        </media>
+      <caption>Beats produced by the constructive and destructive interference of two sound waves that differ in frequency. The closer they are in frequency, the slower the beating. <link url="https://cnx.org/resources/b6911cf054105b8e290b36c834e3a30e1a42bf66">More details</link>.</caption></figure><para id="import-auto-idm648358112">The frequency of beats is the difference between the frequencies of the two interfering sounds. These beats can be used by piano tuners to tune a piano. A tuning fork is struck and a note is played on the piano. As the piano tuner tunes the string, the beats have a lower frequency as the frequency of the note played approaches the frequency of the tuning fork.</para>
+    </section>
+    <section id="import-auto-idm492215952">
+      <title>The Doppler effect</title>
+      <para id="import-auto-idm220750080">The sound of a motorcycle buzzing by is an example of the Doppler effect. If you are standing on a street corner and observe an ambulance with a siren sounding passing at a constant speed, you notice two characteristic changes in the sound of the siren. First, the sound increases in loudness as the ambulance approaches and decreases in loudness as it moves away, as expected. But in addition, the high-pitched siren shifts dramatically to a lower-pitched sound when it passes by you. At the moment the ambulance passes, the frequency of the sound heard by a stationary observer changes from a constant high frequency to a constant lower frequency, even though the siren is producing a constant frequency. The closer the ambulance brushes by, the more abrupt the shift. Also, the faster the ambulance moves, the greater the shift. We also hear this characteristic shift in frequency for passing cars, airplanes, and trains.</para>
+      <para id="import-auto-idm250853168">The Doppler effect is an alteration in the observed frequency of a sound due to motion of either the source or the observer. Although less familiar, this effect is easily noticed for a stationary source and moving observer. For example, if you ride a train past a stationary warning horn, you will hear the horn’s frequency shift from high to low as you pass by. The actual change in frequency due to relative motion of source and observer is called a Doppler shift. </para>
+      <para id="import-auto-idm264030992">The Doppler effect and Doppler shift are named for the Austrian physicist and mathematician Christian Johann Doppler (1803–1853), who did experiments with both moving sources and moving observers. Doppler had musicians play on a moving open train car and also play standing next to the train tracks as a train passed by. Their music was observed both on and off the train, and changes in frequency were measured.</para>
+      <para id="import-auto-idm572827184">What causes the Doppler shift? The figure below illustrates sound waves emitted by stationary and moving sources in a stationary air mass. Each disturbance spreads out spherically from the point at which the sound is emitted. If the source is stationary, then all of the spheres representing the air compressions in the sound wave are centered on the same point, and the stationary observers on either side hear the same wavelength and frequency as emitted by the source (case a). If the source is moving, the situation is different. Each compression of the air moves out in a sphere from the point at which it was emitted, but the point of emission moves. This moving emission point causes the air compressions to be closer together on one side and farther apart on the other. Thus, the wavelength is shorter in the direction the source is moving (on the right in case b), and longer in the opposite direction (on the left in case b). Finally, if the observers move, as in case (c), the frequency at which they receive the compressions changes. The observer moving toward the source receives them at a higher frequency, and the person moving away from the source receives them at a lower frequency.</para>
+      <figure id="import-auto-idm649910304"><media id="import-auto-idm744548992" alt="">
+          <image mime-type="image/png" src="../../media/Image14-79ec.png" height="129" width="461"/>
+        </media>
+      <caption>Sounds emitted by a source spread out in spherical waves. (a) When the source, observers, and air are stationary, the wavelength and frequency are the same in all directions and to all observers. (b) Sounds emitted by a source moving to the right spread out from the points at which they were emitted. The wavelength is reduced and the perceived frequency is increased in the direction of motion, so that the observer on the right hears a higher-pitched sound. The opposite is true for the observer on the left, where the wavelength is increased and the frequency is reduced. (c) The same effect is produced when the observers move relative to the source. <link url="https://cnx.org/resources/d62ed43945bf84d2a34f541b3d2d46efef39da13">More details</link>.</caption></figure><para id="import-auto-idm260565136">We know that wavelength and frequency are related by <emphasis effect="italics">v</emphasis>=<emphasis effect="italics">f</emphasis><emphasis effect="italics">λ</emphasis>, where <emphasis effect="italics">v</emphasis> is the fixed speed of sound. The sound moves in a medium and has the same speed <emphasis effect="italics">v</emphasis> in that medium whether the source is moving or not. Thus, <emphasis effect="italics">f</emphasis> multiplied by <emphasis effect="italics">λ </emphasis>is a constant. Because the observer on the right in case (b) receives a shorter wavelength, the frequency she receives must be higher. Similarly, the observer on the left receives a longer wavelength, and hence he hears a lower frequency. </para>
+      <para id="import-auto-idm262601456">The same thing happens in case (c). A higher frequency is received by the observer moving toward the source, and a lower frequency is received by an observer moving away from the source. In general, then, relative motion of source and observer toward one another increases the received frequency. Relative motion apart decreases frequency. The greater the relative speed, the greater the effect.</para>
+      <para id="import-auto-idm263739264">The Doppler effect occurs not only for sound, but for any wave when there is relative motion between the observer and the source. Doppler shifts occur in the frequency of sound, light, and water waves, for example. Doppler shifts can be used to determine velocity, such as when ultrasound is reflected from blood in a medical diagnostic. The relative velocities of stars and galaxies are determined by the shift in the frequencies of light received from them and these measurements have implied much about the origins of the universe. Modern physics has been profoundly affected by observations of Doppler shifts.</para>
+    </section>
+    <section id="import-auto-idm642680768">
+      <title>Figure credits</title>
+      <para id="import-auto-idm264264016">Figure 1 by Openstax College - University Physics vol. 1. CC BY 4.0, https://cnx.org/resources/fef554c2c774546e75bd3edb87f0e7d519842954</para>
+      <para id="import-auto-idm245494384">Figure 2 by Openstax College - University Physics vol. 1. CC BY 4.0, https://cnx.org/resources/06815b111b47af7c21b025baeb8494115be85080</para>
+      <para id="import-auto-idm265839408">Figure 3 by Openstax College – Psychology. CC BY 4.0, https://cnx.org/resources/e2011b502808ff751fc90883eef9ec20d3e1979d/CNX_Psych_05_02_Frequencies.jpg</para>
+      <para id="import-auto-idm263914272">Figure 4 by Openstax College – College Physics for AP Courses. CC BY 4.0, https://cnx.org/resources/52de2733fb2b165f2a8c57feb4771701513955a6/Figure_17_10_02a.jpg</para>
+      <para id="import-auto-idm263636832">Figure 5 by Openstax College – College Physics for AP Courses. CC BY 4.0, https://cnx.org/resources/390362636503581374c3d9ac5fb0a360a550987e/Figure_17_10_03a.jpg</para>
+      <para id="import-auto-idm612013920">Figure 6 by Openstax College – College Physics for AP Courses. CC BY 4.0, https://cnx.org/resources/3de04b0d7921a08669f2480f0cd2cfc57e6e3e8d/Figure_17_10_04a.jpg</para>
+      <para id="import-auto-idm646317264">Figure 7 by Marcos Gridi-Papp, own work. CC BY-SA 4.0</para>
+      <para id="import-auto-idm265779712">Figure 8 by Dvortygirl, Mysid - FFT'd in baudline; original sound by DvortygirlThis file was derived from:En-us-it's all Greek to me.ogg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2524720</para>
+      <para id="import-auto-idm482141296">Figure 9 by Openstax College – College Physics for AP Courses. CC BY 4.0, https://cnx.org/resources/a9ca2e832a73f78d4a3189c85994e948ecc1b90a/Figure_18_03_01ab.jpg</para>
+      <para id="import-auto-idm245606160">Figure 10 by Openstax College - University Physics vol. 1. CC BY 4.0, https://cnx.org/resources/17446b363c89f3a4299b825b8f7b11373fe8f4cd</para>
+      <para id="import-auto-idm262034768">Figure 11 by Openstax College - University Physics vol. 1. CC BY 4.0, https://cnx.org/resources/abd5c8d7a607af8ad17893da77f6177f43fef5f7</para>
+      <para id="import-auto-idm264661760">Figure 12 by OpenStax University Physics - https://cnx.org/contents/1Q9uMg_aZIP Download:https://cnx.org/exports/d50f6e32-0fda-46ef-a362-9bd36ca7c97d@6.4.zip/university-physics-volume-1-6.4.zip, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=64308017</para>
+      <para id="import-auto-idm251279744">Figure 13 by Openstax College - University Physics vol. 1. CC BY 4.0, https://cnx.org/resources/cb156f0c2081739dad558d8d6c464d4e05c4d0f3/Figure_18_05_03aa.jpg</para>
+      <para id="import-auto-idm263131840">Figure 14 by OpenStax University Physics - https://cnx.org/contents/1Q9uMg_aZIP Download:https://cnx.org/exports/d50f6e32-0fda-46ef-a362-9bd36ca7c97d@6.4.zip/university-physics-volume-1-6.4.zip, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=64308052</para>
+      <para id="import-auto-idm406653824">Figure 15 by Openstax College - University Physics vol. 1. CC BY 4.0, https://cnx.org/resources/d62ed43945bf84d2a34f541b3d2d46efef39da13</para>
+    </section>
+  </content>
+</document>

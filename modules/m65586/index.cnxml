@@ -1,0 +1,83 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Preface</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65586</md:content-id>
+  <md:title>Preface</md:title>
+  <md:abstract>Comparative Oral+ENT Biology is designed for a semester-long course taken by undergraduate students who are preparing for careers in dentistry, medicine, veterinary, audiology, speech pathology or evolutionary biology. It explores the mouth, ears, nose and throat of humans and animals discussing their evolution, development, function, and some common clinical issues. The text provides a broad background through an integrative and organismal perspective. It crosses the boundaries of disciplines, anatomical regions and professions to present structures and mechanisms within an evolutionary context. This textbook is richly illustrated with images made available at Wikimedia Commons. It contains materials from and links to several sources of Open Education Resources.</md:abstract>
+  <md:uuid>a74252ab-4421-428b-a7b9-ec7c66d72b12</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm1238639728">
+      <title>Preface to Comparative Oral+ENT Biology</title>
+      <figure id="import-auto-idm218739664"><media id="import-auto-idm1302401984" alt="">
+          <image mime-type="image/png" src="../../media/Image1-af7a.png" height="314" width="449"/>
+        </media>
+      <caption>Topics of study in comparative oral+ENT biology.</caption></figure><para id="import-auto-idm216700512">Welcome to <link url="http://cnx.org/content/col23864/latest"><emphasis effect="italics">Comparative Oral+ENT Biology</emphasis></link>. We created this textbook to support the multidisciplinary study of the mouth and associated structures. It integrates aspects of evolution, development, ecology, microbiology, structure and function. The main goal is to help college students interested in the subject to build a comprehensive background as a base for their graduate studies.</para></section>
+    <section id="import-auto-idm1213349264">
+      <title>Building an integrative perspective</title>
+      <para id="import-auto-idm1202524064">This book offers an introduction to the mouth and associated cavities in the head: nose, throat and ears. An integrative view of the subject is developed in a multidisciplinary exploration of the content. Connections between structures, mechanisms and evolution are examined without restraint by the traditional separation between dentistry, otorhynolaryngology, veterinary, evolutionary biology or other related disciplines.</para>
+      <para id="import-auto-idm241124000"><link url="http://cnx.org/content/col23864/latest"><emphasis effect="italics">Comparative Oral+ENT Biology</emphasis></link> is written at a level suitable for college students with the basic background on animal structure, function and diversity that is usually built during the freshman year in the biology major. The book is intended to familiarize the reader with the major aspects of origin, structure, function and clinical relevance of each subject, favoring simplicity over completeness. It explores examples that illustrate the advantages of integrating across fields of knowledge to develop a holistic perspective of the subject. The reader will accrue a multidisciplinary knowledge base that will give context to specific concepts learned in graduate school. This knowledge base will facilitate collaboration with professionals specialized in other fields that are also dedicated to the mouth and associated cavities.</para></section>
+    <section id="import-auto-idm247411488">
+      <title>Latest technology for enhanced navigation</title>
+      <para id="import-auto-idm1218975344">Most of the images are linked to the Media Explorer at Wikimedia Commons. This allows the reader to navigate a high-resolution version of each figure with a single click. The text of the online version is permeated with hyperlinks to Wikipedia, allowing the reader to easily expand on concepts of interest. </para>
+    </section>
+    <section id="import-auto-idm213747056">
+      <title>An open education resource</title>
+      <para id="import-auto-idm237294352">This book is made possible through the work of a large number of text authors, graphical artists and open education professionals. The text and figures range from being created by the editor, being inspired by other sources or being directly incorporated from open resources. Most images are made available by Wikimedia Commons, while text has been added or modified from various OpenStax College books, including Anatomy and Physiology, Biology, Microbiology and College Physics. Additional text has been added or modified from Wikipedia. </para>
+    </section>
+    <section id="import-auto-idm1428471664">
+      <title>License</title>
+      <para id="import-auto-idm218872896">To broaden access and encourage community curation, <emphasis effect="italics">Comparative Oral+ENT Biology</emphasis> is “open source” under a Creative Commons Attribution (CC BY) license. Members of the scientific community are invited to submit examples, emerging research, and other feedback to enhance and strengthen the material, keeping it current and relevant for today’s students. </para>
+    </section>
+    <section id="import-auto-idm1448241296">
+      <title>Cost</title>
+      <para id="import-auto-idm248032624">This textbook is available for free online. </para>
+    </section>
+    <section id="import-auto-idm241511984">
+      <title>Content</title>
+      <para id="import-auto-idm240668288">01. Preface</para>
+      <para id="import-auto-idm1320286864">02. Introduction to the Mouth+ENT</para>
+      <para id="import-auto-idm209134720">03. Development</para>
+      <para id="import-auto-idm230007168">04. Body Tissues</para>
+      <para id="import-auto-idm210149136">05. Skull Evolution</para>
+      <para id="import-auto-idm1195170976">06. The Human Skull</para>
+      <para id="import-auto-idm1307060560">07. Ingestion</para>
+      <para id="import-auto-idm1249858272">08. The Mouth</para>
+      <para id="import-auto-idm214013312">09. Biting</para>
+      <para id="import-auto-idm1196754992">10. Mouth Opening</para>
+      <para id="import-auto-idm1436641296">11. Tooth Evolution</para>
+      <para id="import-auto-idm1278367072">12. The Human Teeth</para>
+      <para id="import-auto-idm195557376">13. Dental Development</para>
+      <para id="import-auto-idm220603808">14. The Gums</para>
+      <para id="import-auto-idm241531856">15. Dental Disease and Treatment</para>
+      <para id="import-auto-idm240527040">16. The Dentition</para>
+      <para id="import-auto-idm1194923456">17. Dental Alignment</para>
+      <para id="import-auto-idm1418525360">18. Tongue and Gustation</para>
+      <para id="import-auto-idm1196755904">19. Salivation</para>
+      <para id="import-auto-idm1281156864">20. Swallowing</para>
+      <para id="import-auto-idm239492496">21. The Tonsils</para>
+      <para id="import-auto-idm1248111120">22. Breathing and Olfaction</para>
+      <para id="import-auto-idm1217620128">23. Voice</para>
+      <para id="import-auto-idm226595904">24. Speech</para>
+      <para id="import-auto-idm216997360">25. Hearing</para>
+      <para id="import-auto-idm1411369760">26. Global Health Patterns</para>
+    </section>
+    <section id="import-auto-idm1299881424">
+      <title>Figure credits</title>
+      <para id="import-auto-idm1218147696">Figure 1:</para>
+      <para id="import-auto-idm236510336">Open mouth by Lusb - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=12839749</para>
+      <para id="import-auto-idm231323472">Sagittal head by Pereru - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20067738, derived from https://commons.wikimedia.org/wiki/File:Head_lateral_sagittal_mouth.jpg</para>
+      <para id="import-auto-idm1201484656">Root canal procedure by Original version by Jeremy Kemp; SVG conversion by Jellocube27. - Root Canal Illustration with Molars by Jeremy Kemp (2005-03-22) using Adobe Illustrator; converted to SVG by Jellocube27 (2007-01-07); based on information from illustrations at www.animated-teeth.com., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1550875</para>
+      <para id="import-auto-idm1411690960">Mandibular fracture by Coronation Dental Specialty Group [1] - I'm an owner of the business and authorize use of the file, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24967149</para>
+      <para id="import-auto-idm241370880">Dog palate bypyrighted free use, https://commons.wikimedia.org/w/index.php?curid=320582</para>
+      <para id="import-auto-idm1296343216">Horse larynx by de:Benutzer:Uwe Gille - Taken and uploaded on de:WP by de:Benutzer:Uwe Gille at 14:44, 3. Nov 2004 (CET), last edit at 10:55, 11. Mär 2005, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=514619</para>
+      <para id="import-auto-idm1195494048">Tiger shark serrated teeth by Stefan Kühn, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1089942</para>
+      <para id="import-auto-idm211533568">Jaw of sperm whale by Ryan Somma - Sperm Whale, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=11513035</para>
+      <para id="import-auto-idm1283270128">Human ear by Anatomy_of_the_Human_Ear.svg: Chittka L, Brockmannderivative work: M•Komorniczak -talk- - Anatomy_of_the_Human_Ear.svg, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=7825624</para>
+      <para id="import-auto-idm237250336">Molar tooth anatomy by KDS4444 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52624520</para>
+      <para id="import-auto-idm1401302656">Human tongue by ArnoldReinhold - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=252253</para>
+      <para id="import-auto-idm1239096352">Saber tooth tiger skull by James St. John - Smilodon californicus saber-toothed tiger (Upper Pleistocene; California, USA), CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=40022318</para>
+    </section>
+  </content>
+</document>

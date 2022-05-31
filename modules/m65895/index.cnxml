@@ -1,0 +1,104 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Muscle Tissue</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65895</md:content-id>
+  <md:title>Muscle Tissue</md:title>
+  <md:abstract>Muscle tissue can shorten and this ability provides the body with movement. Smooth, skeletal and cardiac muscle differ significantly in morphology and physiology. They are used for different tasks in the body.</md:abstract>
+  <md:uuid>bfa64255-ed2d-40e4-9522-6863d37e4c3d</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm584876464">There are three types of muscle in animal bodies: smooth, skeletal, and cardiac. They differ by the presence or absence of striations or bands, the number and location of nuclei, whether they are voluntarily or involuntarily controlled, and their location within the body. </para>
+    <table id="import-auto-idm539800272" summary="Types of muscle tissue">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <thead>
+          <row>
+            <entry namest="c1" nameend="c5">Types of Muscles</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Type of Muscle</entry>
+            <entry>Striations</entry>
+            <entry>Nuclei</entry>
+            <entry>Control</entry>
+            <entry>Location</entry>
+          </row>
+          <row>
+            <entry>smooth</entry>
+            <entry>no</entry>
+            <entry>single, in center</entry>
+            <entry>involuntary</entry>
+            <entry>visceral organs</entry>
+          </row>
+          <row>
+            <entry>skeletal</entry>
+            <entry>yes</entry>
+            <entry>many, at periphery</entry>
+            <entry>voluntary</entry>
+            <entry>skeletal muscles</entry>
+          </row>
+          <row>
+            <entry>cardiac</entry>
+            <entry>yes</entry>
+            <entry>single, in center</entry>
+            <entry>involuntary</entry>
+            <entry>heart</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><section id="import-auto-idm773657488">
+      <title>Smooth Muscle</title>
+      <para id="import-auto-idm880218496">Smooth muscle does not have striations in its cells. It has a single, centrally located nucleus. Constriction of smooth muscle occurs under involuntary, autonomic nervous control and in response to local conditions in the tissues. Smooth muscle tissue is also called non-striated as it lacks the banded appearance of skeletal and cardiac muscle. The walls of blood vessels, the tubes of the digestive system, and the tubes of the reproductive systems are composed of mostly smooth muscle.</para>
+      <figure id="import-auto-idm515429872"><media id="import-auto-idm614403600" alt="">
+          <image mime-type="image/jpg" src="../../media/Image1-62c6.jpg" height="105" width="576"/>
+        </media>
+      <caption>Smooth muscle cells do not have striations, while skeletal muscle cells do. Cardiac muscle cells have striations, but, unlike the multinucleate skeletal cells, they have only one nucleus. Cardiac muscle tissue also has intercalated discs, specialized regions running along the plasma membrane that join adjacent cardiac muscle cells and assist in passing an electrical impulse from cell to cell. <link url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Figure_33_02_12abc.jpg"><emphasis effect="underline">More details</emphasis></link>.</caption></figure><para id="import-auto-idm611506816">Smooth muscle (so-named because the cells do not have striations) is present in the walls of hollow organs like the urinary bladder, uterus, stomach, intestines, and in the walls of passageways, such as the arteries and veins of the circulatory system, and the tracts of the respiratory, urinary, and reproductive systems. Smooth muscle is also present in the eyes, where it functions to change the size of the iris and alter the shape of the lens; and in the skin where it causes hair to stand erect in response to cold temperature or fear.</para>
+      <figure id="import-auto-idm890256656"><media id="import-auto-idm604506672" alt="">
+          <image mime-type="image/png" src="../../media/Image2-2313.png" height="343" width="402"/>
+        </media>
+      <caption>Smooth muscle tissue. <link url="https://upload.wikimedia.org/wikipedia/commons/3/3e/1021_Smooth_Muscle_new.jpg"><emphasis effect="underline">More details</emphasis></link>.</caption></figure><para id="import-auto-idm331037424">Smooth muscle fibers are spindle-shaped (wide in the middle and tapered at both ends, somewhat like a football) and have a single nucleus; they range from about 30 to 200 <emphasis effect="italics">μ</emphasis>m (thousands of times shorter than skeletal muscle fibers), and they produce their own connective tissue, endomysium. Although they do not have striations and sarcomeres, smooth muscle fibers do have actin and myosin contractile proteins, and thick and thin filaments. These thin filaments are anchored by dense bodies. A dense body is analogous to the Z-discs of skeletal and cardiac muscle fibers and is fastened to the sarcolemma.  When the thin filaments slide past the thick filaments, they pull on the dense bodies, structures tethered to the sarcolemma, which then pull on the intermediate filaments networks throughout the sarcoplasm. This arrangement causes the entire muscle fiber to contract in a manner whereby the ends are pulled toward the center, causing the midsection to bulge in a corkscrew motion.</para>
+      <figure id="import-auto-idm627551440"><media id="import-auto-idm628982992" alt="">
+          <image mime-type="image/jpg" src="../../media/Image3-4a0d.jpg" height="149" width="576"/>
+        </media>
+      <caption>Contraction mechanism in smooth muscle. <link url="https://upload.wikimedia.org/wikipedia/commons/5/54/1028_Smooth_Muscle_Contraction.jpg"><emphasis effect="underline">More details</emphasis></link>.</caption></figure><para id="import-auto-idm1099754752">Because most smooth muscles must function for long periods without rest, their power output is relatively low, but contractions can continue without using large amounts of energy. Some smooth muscle can also maintain contractions even as Ca++ is removed and myosin kinase is inactivated/dephosphorylated. This can happen as a subset of cross-bridges between myosin heads and actin, called latch-bridges, keep the thick and thin filaments linked together for a prolonged period, and without the need for ATP. This allows for the maintaining of muscle “tone” in smooth muscle that lines arterioles and other visceral organs with very little energy expenditure.</para>
+      <para id="import-auto-idm322304080">Smooth muscle is not under voluntary control; thus, it is called involuntary muscle. The triggers for smooth muscle contraction include hormones, neural stimulation by the ANS, and local factors. In certain locations, such as the walls of visceral organs, stretching the muscle can trigger its contraction (the stress-relaxation response).</para>
+      <para id="import-auto-idm1055144880">Axons of neurons in the ANS do not form the highly organized NMJs with smooth muscle, as seen between motor neurons and skeletal muscle fibers. Instead, there is a series of neurotransmitter-filled bulges called varicosities as an axon courses through smooth muscle, loosely forming motor units (<link url="https://cnx.org/contents/FPtK1zmh@8.53:LdsO7WDu@5/Smooth-Muscle#fig-ch10_08_03"><emphasis effect="underline">Figure</emphasis></link>). A varicosity releases neurotransmitters into the synaptic cleft. Also, visceral muscle in the walls of the hollow organs (except the heart) contains pacesetter cells. A pacesetter cell can spontaneously trigger action potentials and contractions in the muscle.</para>
+      <figure id="import-auto-idm632556448"><media id="import-auto-idm899844016" alt="">
+          <image mime-type="image/jpg" src="../../media/Image4-68ce.jpg" height="244" width="506"/>
+        </media>
+      <caption>Neural stimulation of smooth muscles through varicosities. <link url="https://upload.wikimedia.org/wikipedia/commons/0/09/1029_Smooth_Muscle_Motor_Units.jpg"><emphasis effect="underline">More details</emphasis></link>.</caption></figure><para id="import-auto-idm524105840">Smooth muscle is organized in two ways: as single-unit smooth muscle, which is much more common; and as multiunit smooth muscle. The two types have different locations in the body and have different characteristics. Single-unit muscle has its muscle fibers joined by gap junctions so that the muscle contracts as a single unit. This type of smooth muscle is found in the walls of all visceral organs except the heart (which has cardiac muscle in its walls), and so it is commonly called visceral muscle. Because the muscle fibers are not constrained by the organization and stretchability limits of sarcomeres, visceral smooth muscle has a stress-relaxation response. This means that as the muscle of a hollow organ is stretched when it fills, the mechanical stress of the stretching will trigger contraction, but this is immediately followed by relaxation so that the organ does not empty its contents prematurely. This is important for hollow organs, such as the stomach or urinary bladder, which continuously expand as they fill. The smooth muscle around these organs also can maintain a muscle tone when the organ empties and shrinks, a feature that prevents “flabbiness” in the empty organ. In general, visceral smooth muscle produces slow, steady contractions that allow substances, such as food in the digestive tract, to move through the body.</para>
+      <para id="import-auto-idm605303328">Multiunit smooth muscle cells rarely possess gap junctions, and thus are not electrically coupled. As a result, contraction does not spread from one cell to the next, but is instead confined to the cell that was originally stimulated. Stimuli for multiunit smooth muscles come from autonomic nerves or hormones but not from stretching. This type of tissue is found around large blood vessels, in the respiratory airways, and in the eyes.</para>
+    </section>
+    <section id="import-auto-idm891367088">
+      <title>Skeletal Muscle</title>
+      <para id="import-auto-idm881085216">Skeletal muscle has striations across its cells caused by the arrangement of the contractile proteins actin and myosin. These muscle cells are relatively long and have multiple nuclei along the edge of the cell. Skeletal muscle is under voluntary, somatic nervous system control and is found in the muscles that move bones. </para>
+      <para id="import-auto-idm534014736">The best-known feature of skeletal muscle is its ability to contract and cause movement. Skeletal muscles act not only to produce movement but also to stop movement, such as resisting gravity to maintain posture. Small, constant adjustments of the skeletal muscles are needed to hold a body upright or balanced in any position. Muscles also prevent excess movement of the bones and joints, maintaining skeletal stability and preventing skeletal structure damage or deformation. Joints can become misaligned or dislocated entirely by pulling on the associated bones; muscles work to keep joints stable. Skeletal muscles are located throughout the body at the openings of internal tracts to control the movement of various substances. These muscles allow functions, such as swallowing, urination, and defecation, to be under voluntary control. Skeletal muscles also protect internal organs (particularly abdominal and pelvic organs) by acting as an external barrier or shield to external trauma and by supporting the weight of the organs.</para>
+      <para id="import-auto-idm885502560">Skeletal muscles contribute to the maintenance of homeostasis in the body by generating heat. Muscle contraction requires energy, and when ATP is broken down, heat is produced. This heat is very noticeable during exercise, when sustained muscle movement causes body temperature to rise, and in cases of extreme cold, when shivering produces random skeletal muscle contractions to generate heat.</para>
+      <para id="import-auto-idm754255424">Each skeletal muscle is an organ that consists of various integrated tissues. These tissues include the skeletal muscle fibers, blood vessels, nerve fibers, and connective tissue. Each skeletal muscle has three layers of connective tissue (called “mysia”) that enclose it and provide structure to the muscle as a whole, and also compartmentalize the muscle fibers within the muscle. Each muscle is wrapped in a sheath of dense, irregular connective tissue called the epimysium, which allows a muscle to contract and move powerfully while maintaining its structural integrity. The epimysium also separates muscle from other tissues and organs in the area, allowing the muscle to move independently.</para>
+      <figure id="import-auto-idm519449936"><media id="import-auto-idm538539200" alt="">
+          <image mime-type="image/jpg" src="../../media/Image5-b82f.jpg" height="307" width="280"/>
+        </media>
+      <caption>The three layers of connective tissue in the framework of skeletal muscles. <link url="https://upload.wikimedia.org/wikipedia/commons/d/dd/1007_Muscle_Fibes_(large).jpg"><emphasis effect="underline">More details</emphasis></link>.</caption></figure><para id="import-auto-idm1077455488">Inside each skeletal muscle, muscle fibers are organized into individual bundles, each called a fascicle, by a middle layer of connective tissue called the perimysium. This fascicular organization is common in muscles of the limbs; it allows the nervous system to trigger a specific movement of a muscle by activating a subset of muscle fibers within a bundle, or fascicle of the muscle. Inside each fascicle, each muscle fiber is encased in a thin connective tissue layer of collagen and reticular fibers called the endomysium. The endomysium contains the extracellular fluid and nutrients to support the muscle fiber. These nutrients are supplied via blood to the muscle tissue.</para>
+      <para id="import-auto-idm621271152">In skeletal muscles that work with tendons to pull on bones, the collagen in the three tissue layers (the mysia) intertwines with the collagen of a tendon. At the other end of the tendon, it fuses with the periosteum coating the bone. The tension created by contraction of the muscle fibers is then transferred though the mysia, to the tendon, and then to the periosteum to pull on the bone for movement of the skeleton. In other places, the mysia may fuse with a broad, tendon-like sheet called an aponeurosis, or to fascia, the connective tissue between skin and bones. The broad sheet of connective tissue in the lower back that the latissimus dorsi muscles (the “lats”) fuse into is an example of an aponeurosis.</para>
+      <para id="import-auto-idm314829152">Every skeletal muscle is also richly supplied by blood vessels for nourishment, oxygen delivery, and waste removal. In addition, every muscle fiber in a skeletal muscle is supplied by the axon branch of a somatic motor neuron, which signals the fiber to contract. Unlike cardiac and smooth muscle, the only way to functionally contract a skeletal muscle is through signaling from the nervous system.</para>
+    </section>
+    <section id="import-auto-idm877089680">
+      <title>Cardiac Muscle</title>
+      <para id="import-auto-idm1137918048">Cardiac muscle is found only in the heart. Like skeletal muscle, it has cross striations in its cells, but cardiac muscle has a single, centrally located nucleus. Cardiac muscle is not under voluntary control but can be influenced by the autonomic nervous system to speed up or slow down. An added feature to cardiac muscle cells is a line than extends along the end of the cell as it abuts the next cardiac cell in the row. This line is called an intercalated disc: it assists in passing electrical impulse efficiently from one cell to the next and maintains the strong connection between neighboring cardiac cells.</para>
+    </section>
+    <section id="import-auto-idm758423184">
+      <title>Figure Credits</title>
+      <para id="import-auto-idm1715121984">Figure 1 by CNX OpenStax - http://cnx.org/contents/GFy_h8cu@10.53:rZudN6XP@2/Introduction, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=49934875</para>
+      <para id="import-auto-idm568899328">Figure 2 by OpenStax - https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=30015050</para>
+      <para id="import-auto-idm770512448">Figure 3 by OpenStax - https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=30015054</para>
+      <para id="import-auto-idm608847504">Figure 4 by OpenStax - https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=30015056</para>
+      <para id="import-auto-idm896635632">Figure 5 by OpenStax - https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=30015037</para>
+    </section>
+  </content>
+</document>

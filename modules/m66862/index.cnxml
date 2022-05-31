@@ -1,0 +1,220 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Vowels and Consonants</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66862</md:content-id>
+  <md:title>Vowels and Consonants</md:title>
+  <md:abstract>Articulatory phonetics is the branch of linguistics that studies how the vocal apparatus is moved to produce speech sounds. The International Phonetic Alphabet is used to represent all the sounds produced in all languages. Vocal sounds are produced as vowels, with unrestricted air flow, or consonants, with blocked or constricted airflow. Vowels are characterized not by fundamental frequency of vocal fold vibration, but by distribution of energy in their harmonics. This is a function of the resonance patterns in the vocal cavities, which can be modified by moving the anatomy of the vocal tract. Vowels are not categorically different in production mode or sound. The categorization is learned and the boundaries are variable among languages, dialects and accents. The articulation of vowels mostly involves raising, protracting or retracting the tongue. Consonants involve blocking or restricting the airflow through various manners of articulation and doing so at various places of articulation. The various possible combinations between manners and places of articulation originate the great variety of consonant sound observed in the multitude of languages spoken around the world.</md:abstract>
+  <md:uuid>ee44288c-1553-42a3-b725-2c2bb94ff383</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm936322432">
+      <title>Human speech</title>
+      <para id="import-auto-idm757533728">Most of the sounds that humans use in speech are produced by the vocal folds. Non-vocal sounds include clicks produced with the lips or tongue. Vibration of the vocal folds produces complex sound waves with elaborate harmonic structure. The vocal folds can be stretched or relaxed, producing voice over a wide range of fundamental frequencies.</para>
+      <figure id="import-auto-idm312014896"><media id="import-auto-idm360882944" alt="">
+          <image mime-type="image/png" src="../../media/Image1-19b8.png" height="193" width="289"/>
+        </media>
+      <caption>The <link url="https://en.wikipedia.org/wiki/Spectrogram">spectrogram</link> of the human voice reveals its rich <link url="https://en.wikipedia.org/wiki/Harmonic">harmonic</link> content. <link url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Human_voice_spectrogram.jpg">More details</link>.</caption></figure><para id="import-auto-idm925370368">At any given fundamental frequency, the voice can be changed in a myriad of ways that influence its meaning during speech or singing. After being produced at the vocal folds, sound is modified through cavity resonances in the pharynx, mouth and nasal cavity and through constriction or interruption of the flow at the soft palate, tongue, teeth or lips. A large number of muscles can move body parts in ways that alter the quality of voice and in this way become part of the vocal system. The vocal system could be the most complex and versatile motor system in our body.</para>
+      <para id="import-auto-idm1212484160">Phonetics is the branch of linguistics that studies the sounds of human speech and equivalent aspects of sign languages. It is divided into articulatory, acoustic and auditory phonetics. Articulatory phonetics is the subfield that studies how the anatomy of the vocal apparatus is used to articulate speech. It addresses the biomechanics of positioning structures, the physics of airflow and the acoustics of the articulation.</para>
+    </section>
+    <section id="import-auto-idm1094304000">
+      <title>International phonetic alphabet (IPA)</title>
+      <para id="import-auto-idm1093673152">The variety of vocal sounds produced for communication needed to be cataloged using a common notation system that could be applied to any language and dialect. The <link url="https://en.wikipedia.org/wiki/International_Phonetic_Association">International Phonetic Association</link> created the International Phonetic Alphabet (IPA) in the late 19th century as a standardized representation of the sounds of <link url="https://en.wikipedia.org/wiki/Spoken_language">spoken language</link>.</para>
+      <para id="import-auto-idm741792432">IPA symbols are composed of one or more elements of two basic types: <link url="https://en.wikipedia.org/wiki/Letter_(alphabet)">letters</link> and <link url="https://en.wikipedia.org/wiki/Diacritic">diacritics</link>. The sound of the English letter ⟨t⟩, for example, may be transcribed in IPA with a single letter, [t], or with a letter plus diacritics, [t̺ʰ], depending on how precise one wishes to be. As of 2005 the system contains 107 letters and 52 modifyiers. The letters chosen for the IPA come mostly from Latin and Greek, but many other letters and symbols were also included. </para>
+      <para id="import-auto-idm324550048">The IPA provides one letter for each distinctive sound (<link url="https://en.wikipedia.org/wiki/Segment_(linguistics)">speech segment</link>). This means that:</para>
+      <list id="import-auto-idm837403008" list-type="bulleted">
+        <item>It does not normally use <link url="https://en.wikipedia.org/wiki/Multigraph_(orthography)">combinations of letters</link> to represent single sounds, the way <link url="https://en.wikipedia.org/wiki/English_language">English</link> does with ⟨sh⟩, ⟨th⟩ and ⟨ng⟩, or single letters to represent multiple sounds the way ⟨x⟩ represents /ks/ or /ɡz/ in English. </item>
+        <item>There are no letters that have context-dependent sound values, as do "hard" and "soft" <link url="https://en.wikipedia.org/wiki/Hard_and_soft_C">⟨c⟩</link> or <link url="https://en.wikipedia.org/wiki/Hard_and_soft_G">⟨g⟩</link> in several European languages. </item>
+        <item>It does not have separate letters for two sounds if no known language makes a distinction between them.</item>
+      </list>
+      <figure id="import-auto-idm1038291856"><media id="import-auto-idm959107152" alt="">
+          <image mime-type="image/png" src="../../media/Image2-1b4c.png" height="324" width="235"/>
+        </media>
+      <caption>The official chart of the IPA as of 2015. An official chart is released after each revision of the IPA, summarizing its structure. <link url="https://upload.wikimedia.org/wikipedia/commons/e/e4/The_International_Phonetic_Alphabet_%28revised_to_2015%29.pdf">More details</link>.</caption></figure><para id="import-auto-idm297128928">The IPA offers over 160 symbols for transcribing speech but only a subset of these is used to transcribe any one language. It is possible to transcribe speech with various levels of precision. A precise phonetic transcription in which sounds are described in a great deal of detail is known as a narrow transcription. A coarser transcription is called a broad transcription. The English word little, for example, may be transcribed broadly using the IPA as [ˈlɪtəl], and this broad (imprecise) transcription is a more or less accurate description of many pronunciations. A narrower transcription may focus on individual or dialectical details: [ˈɫɪɾɫ] in <link url="https://en.wikipedia.org/wiki/General_American">General American</link>, [ˈlɪʔo] in <link url="https://en.wikipedia.org/wiki/Cockney">Cockney</link>, or [ˈɫɪːɫ] in Southern US English.</para>
+    </section>
+    <section id="import-auto-idm1368889616">
+      <title>Classifications of vocal sounds</title>
+      <para id="import-auto-idm839145200">The sounds produced for vocal communication form two major groups: vowels and consonants. </para>
+      <list id="import-auto-idm928861904" list-type="bulleted">
+        <item>Vowels are produced by the passage of air through the <link url="https://en.wikipedia.org/wiki/Larynx">larynx</link> and the <link url="https://en.wikipedia.org/wiki/Vocal_tract">vocal tract</link> mostly having the vocal tract open and allowing the air to escape without generating turbulent noise. </item>
+        <item>Consonants are produced with restriction or interruption of the airflow from the lungs. </item>
+      </list>
+      <section id="import-auto-idm739541584">
+        <title>Vowels</title>
+        <para id="import-auto-idm325674560">Vowels are mostly made distinguishable by differences in the distribution of energy among their harmonics. As vowels are produced with the vocal tract open, these differences are mostly generated through appropriate positioning of the elements in the vocal tract. This alters the resonance in the vocal cavities which in turn modifies the distribution of energy among the harmonics. The acoustics of vowels can be visualized using spectrograms, which display the acoustic energy at each frequency, and how this changes with time.</para>
+        <figure id="import-auto-idm1100963664"><media id="import-auto-idm1091022512" alt="">
+            <image mime-type="image/png" src="../../media/Image8-98ae.png" height="197" width="262"/>
+          </media>
+        <caption>Spectrogram of vowels [i, u, ɑ]. [ɑ] is a low vowel, so its F1 value is higher than that of [i] and [u], which are high vowels. [i] is a front vowel, so its F2 is substantially higher than that of [u] and [ɑ], which are back vowels. <link url="https://upload.wikimedia.org/wikipedia/commons/7/77/Spectrogram_-iua-.png">More details</link>.</caption></figure><para id="import-auto-idm933130656">A vowel is therefore determined by the configuration of the vocal tract and not by the tension in the vocal folds. A singer can vocalize an “ah” and change the fundamental frequency of the voice drastically while still holding a sound that can clearly be recognized as the vowel “ah”. Conversely, the singer can maintain the tension at the vocal folds constant while cycling through all the vowels. </para>
+        <figure id="import-auto-idm319948672"><media id="import-auto-idm759620928" alt="">
+            <image mime-type="image/png" src="../../media/Image4-7d86.png" height="152" width="152"/>
+          </media>
+        <caption>Watch the MRI video at https://upload.wikimedia.org/wikipedia/commons/9/9f/Real-time_MRI_-_Speaking_%28English%29.ogv. <link url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Real-time_MRI_-_Speaking_%28English%29.ogv">More details</link>.</caption></figure><para id="import-auto-idm1216286096">The frequencies that are emphasized at a given configuration of the vocal tract are called formants. When the tension in the vocal folds is changed without moving the vocal tract, the formants stay the same, but the fundamental frequency changes. This results in a different set of harmonics being matched by the formants and emphasized by resonance in the vocal tract.</para>
+        <para id="import-auto-idm1055623920">One important aspect of vowel production is that the muscle contractions that produce the various vowels all occur along continual ranges without categorical steps. A person’s concept of a given vowel is a learned convention that is employed when producing the vowel and when recognizing it in another person’s speech. These conventions do not hold across languages and they also vary among regions that speak a same language. </para>
+        <para id="import-auto-idm1213447408">Formant charts are frequently used to analyze the continuum of the vowel space and study accents, dialects, pathologies and the boundaries between vowels. The first formant, abbreviated “F1", corresponds to vowel openness (vowel height). <link url="https://en.wikipedia.org/wiki/Open_vowel">Open vowels</link> have high F1 frequencies, while <link url="https://en.wikipedia.org/wiki/Close_vowel">close vowels</link> have low F1 frequencies, as can be seen in the accompanying spectrogram. The [i] and [u] have similar low first formants, whereas [ɑ] has a higher formant.</para>
+        <para id="import-auto-idm865377264">The second formant, F2, corresponds to vowel frontness. <link url="https://en.wikipedia.org/wiki/Back_vowel">Back vowels</link> have low F2 frequencies, while <link url="https://en.wikipedia.org/wiki/Front_vowel">front vowels</link> have high F2 frequencies. This is very clear in the spectrogram, where the front vowel [i] has a much higher F2 frequency than the other two vowels. However, in open vowels, the high F1 frequency forces a rise in the F2 frequency as well, so an alternative measure of frontness is the difference between the first and second formants. For this reason, some people prefer to plot as F1 vs. F2 – F1. </para>
+        <figure id="import-auto-idm1094582784"><media id="import-auto-idm333899472" alt="">
+            <image mime-type="image/png" src="../../media/Image3-1e19.png" height="210" width="263"/>
+          </media>
+        <caption>A formant chart showing the stem vowel space of the Kyrgyz language. Vowels are produced in different parts of the acoustic space formed when the frequency of the first formant (F1) is plotted against that of the second formant (F2). <link url="https://upload.wikimedia.org/wikipedia/commons/1/12/Kyrgyz_stem_vowel_space.svg">More details</link>.</caption></figure><para id="import-auto-idm1056546496">Vowels are more traditionally defined phonetically or phonologically.</para>
+        <list id="import-auto-idm962374608" list-type="bulleted">
+          <item>In the <link url="https://en.wikipedia.org/wiki/Phonetic">phonetic</link> definition, a vowel is a sound, such as the <link url="https://en.wikipedia.org/wiki/English_language">English</link> "ah" or "oh", produced with an open <link url="https://en.wikipedia.org/wiki/Vocal_tract">vocal tract</link>. It is median, oral, frictionless and continuant, meaning that most air escapes through the middle of the tongue, through the mouth, without restriction and continuously . There is no significant build-up of air pressure at any point above the <link url="https://en.wikipedia.org/wiki/Glottis">glottis</link>. This contrasts with <link url="https://en.wikipedia.org/wiki/Consonant">consonants</link>, such as the English "sh" [ʃ], which have a constriction or closure at some point along the vocal tract. </item>
+          <item>In the phonological definition, a vowel is defined as the nucleus of a syllable. In <link url="https://en.wikipedia.org/wiki/Oral_language">oral languages</link>, phonetic vowels normally form the nucleus of many or all syllables, whereas <link url="https://en.wikipedia.org/wiki/Consonant">consonants</link> form the <link url="https://en.wikipedia.org/wiki/Syllable_onset">onset</link> and (in languages that have them) <link url="https://en.wikipedia.org/wiki/Syllable_coda">coda</link>. </item>
+        </list>
+      </section>
+      <section id="import-auto-idm1065495328">
+        <title>Vowel articulation</title>
+        <para id="import-auto-idm921272896">The traditional view of vowel production is one of <link url="https://en.wikipedia.org/wiki/Articulatory_phonetics">articulatory features</link> that determine a vowel's quality as distinguishing it from other vowels. <link url="https://en.wikipedia.org/wiki/Daniel_Jones_(phonetician)">Daniel Jones</link> developed the <link url="https://en.wikipedia.org/wiki/Cardinal_vowel">cardinal vowel</link> system to describe vowels in terms of the features of tongue height (vertical dimension), tongue backness (horizontal dimension) and roundedness (lip articulation). These three parameters are indicated in the schematic quadrilateral IPA <link url="https://en.wikipedia.org/wiki/Vowel_diagram">vowel diagram</link>. The vowel quadrilateral is not a perfect mapping of tongue position but it is an intuitive morphological approximation to the tongue influences the acoustics of  the  vowels.</para>
+        <figure id="import-auto-idm855973568"><media id="import-auto-idm749724448" alt="">
+            <image mime-type="image/png" src="../../media/Image5-81ff.png" height="169" width="219"/>
+          </media>
+        <caption>The original vowel quadrilateral, from Jones' articulation. The vowel trapezoid of the modern IPA, and at the top of this article, is a simplified rendition of this diagram. <link url="https://upload.wikimedia.org/wikipedia/commons/8/8c/Vowel_quadrilateral_%28IPA_1949%29.png">More details</link>. Try the <link url="https://en.wikipedia.org/wiki/Template:IPA_chart_vowels_with_audio">current IPA chart with audio</link>.</caption></figure></section>
+      <section id="import-auto-idm1093563680">
+        <title>Articulation features of vowels</title>
+        <section id="import-auto-idm929447904">
+          <title>Height</title>
+          <para id="import-auto-idm757589968">Vowel height is named for the vertical position of the tongue relative to either the roof of the mouth or the aperture of the <link url="https://en.wikipedia.org/wiki/Jaw">jaw</link>. It correlates closely with the first <link url="https://en.wikipedia.org/wiki/Formant">formant</link> (lowest resonance of the voice), abbreviated F1. In close vowels, also known as high vowels, such as [i] and [u], the first formant is consistent with the tongue being positioned close to the palate, high in the mouth, whereas in open vowels, also known as low vowels, such as [a], F1 is consistent with the jaw being open and the tongue being positioned low in the mouth. Height is defined by the inverse of the F1 value: The higher the frequency of the first formant, the lower (more open) the vowel.</para>
+          <figure id="import-auto-idm312213040"><media id="import-auto-idm308138576" alt="">
+              <image mime-type="image/png" src="../../media/Image6-8d12.png" height="144" width="143"/>
+            </media>
+          <caption>Idealistic tongue positions of cardinal front vowels with highest point indicated. <link url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Cardinal_vowel_tongue_position-front.svg">More details</link>.</caption></figure><para id="import-auto-idm1076765792">The <link url="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet">International Phonetic Alphabet</link> defines seven degrees of vowel height, but no language is known to distinguish all of them:</para>
+          <list id="import-auto-idm868928000" list-type="bulleted">
+            <item><link url="https://en.wikipedia.org/wiki/Close_vowel">close</link> (high) </item>
+            <item><link url="https://en.wikipedia.org/wiki/Near-close_vowel">near-close</link> (near-high) </item>
+            <item><link url="https://en.wikipedia.org/wiki/Close-mid_vowel">close-mid</link> (high-mid) </item>
+            <item><link url="https://en.wikipedia.org/wiki/Mid_vowel">mid</link> (true-mid) </item>
+            <item><link url="https://en.wikipedia.org/wiki/Open-mid_vowel">open-mid</link> (low-mid) </item>
+            <item><link url="https://en.wikipedia.org/wiki/Near-open_vowel">near-open</link> (near-low) </item>
+            <item><link url="https://en.wikipedia.org/wiki/Open_vowel">open</link> (low) </item>
+          </list>
+          <para id="import-auto-idm860687120">The parameter of vowel height appears to be the primary cross-linguistic feature of vowels in that all <link url="https://en.wikipedia.org/wiki/Spoken_language">spoken language</link>s use height as a contrastive feature. No other parameter, even backness or rounding (see below), is used in all languages. Some languages have <link url="https://en.wikipedia.org/wiki/Vertical_vowel_system">vertical vowel systems</link> in which at least at a phonemic level, only height is used to distinguish vowels.</para>
+        </section>
+        <section id="import-auto-idm759249072">
+          <title>Backness</title>
+          <para id="import-auto-idm1093769920">Vowel backness is named for the position of the tongue during the articulation of a vowel relative to the back of the mouth. As with vowel height, however, it is defined by a formant of the voice, in this case the second, F2. In front vowels, such as [i], the frequency of F2 is relatively high, which generally corresponds to a position of the tongue forward in the mouth, whereas in back vowels, such as [u], F2 is low, consistent with the tongue being positioned towards the back of the mouth.</para>
+          <para id="import-auto-idm716264048">The <link url="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet">International Phonetic Alphabet</link> defines five degrees of vowel backness:</para>
+          <list id="import-auto-idm702742464" list-type="bulleted">
+            <item>
+              <link url="https://en.wikipedia.org/wiki/Front_vowel">front</link>
+            </item>
+            <item>
+              <link url="https://en.wikipedia.org/wiki/Near-front_vowel">near-front</link>
+            </item>
+            <item>
+              <link url="https://en.wikipedia.org/wiki/Central_vowel">central</link>
+            </item>
+            <item>
+              <link url="https://en.wikipedia.org/wiki/Near-back_vowel">near-back</link>
+            </item>
+            <item>
+              <link url="https://en.wikipedia.org/wiki/Back_vowel">back</link>
+            </item>
+          </list>
+          <para id="import-auto-idm1045447984">Although English has vowels at five degrees of backness, there is no known language that distinguishes five degrees of backness without additional differences in height or rounding.</para>
+        </section>
+        <section id="import-auto-idm841951088">
+          <title>Front, raised and retracted vs. height and backness</title>
+          <para id="import-auto-idm755737216">The conception of the tongue moving independently in two directions, high–low and front–back, is not supported by articulatory evidence. The natural movements of the tongue are better characterized by the three directions of movement that it can take from its neutral position: front, raised, and retracted. In this alternative classification, front vowels can be secondarily qualified as close or open, as in the traditional conception.</para>
+          <figure id="import-auto-idm1094930784"><media id="import-auto-idm764294896" alt="">
+              <image mime-type="image/png" src="../../media/Image7-0257.png" height="138" width="265"/>
+            </media>
+          <caption>Front, raised and retracted are the three articulatory dimensions of vowel space. <link url="https://upload.wikimedia.org/wikipedia/en/0/05/Esling_vowel_chart.png">More details</link>.</caption></figure></section>
+        <section id="import-auto-idm307662192">
+          <title>Roundedness</title>
+          <para id="import-auto-idm1088666416"><link url="https://en.wikipedia.org/wiki/Roundedness">Roundedness</link> is named after the rounding of the lips in some vowels. Because lip rounding is easily visible, vowels may be commonly identified as rounded based on the articulation of the lips. Acoustically, rounded vowels are identified chiefly by a decrease in F2, although F1 is also slightly decreased.</para>
+          <figure id="import-auto-idm301261616"><media id="import-auto-idm2827679664" alt="">
+              <image mime-type="image/png" src="../../media/Image9-abc1.png" height="139" width="285"/>
+            </media>
+          <caption>Lip position in the two forms of vowel rounding: protrusion (left) and compression (right). More details (<link url="https://upload.wikimedia.org/wikipedia/commons/1/18/Vowel-narrow-protruded-1.png">left</link>, <link url="https://upload.wikimedia.org/wikipedia/commons/6/60/Vowel-narrow-compressed-1.png">right</link>).</caption></figure><para id="import-auto-idm957310512">In most languages, roundedness is a reinforcing feature of mid to high back vowels rather than a distinctive feature. Usually, the higher a back vowel, the more intense is the rounding. </para>
+        </section>
+        <section id="import-auto-idm1053368480">
+          <title>Nasalization</title>
+          <para id="import-auto-idm317197632"><link url="https://en.wikipedia.org/wiki/Nasalization">Nasalization</link> refers to whether some of the air escapes through the nose. In <link url="https://en.wikipedia.org/wiki/Nasal_vowel">nasal vowels</link>, the <link url="https://en.wikipedia.org/wiki/Soft_palate">velum</link> (soft palate) is depressed and some air travels through the nasal cavity. An oral vowel is a vowel in which all air escapes through the mouth. <link url="https://en.wikipedia.org/wiki/French_language">French</link>, <link url="https://en.wikipedia.org/wiki/Polish_language">Polish</link> and <link url="https://en.wikipedia.org/wiki/Portuguese_language">Portuguese</link> contrast nasal and oral vowels.</para>
+        </section>
+        <section id="import-auto-idm737468304">
+          <title>Phonation</title>
+          <para id="import-auto-idm1186828352"><link url="https://en.wikipedia.org/wiki/Phonation">Voicing</link> describes whether the <link url="https://en.wikipedia.org/wiki/Vocal_cords">vocal cords</link> are vibrating during the articulation of a vowel. Most languages have only voiced vowels, but several <link url="https://en.wikipedia.org/wiki/Native_American_languages">Native American languages</link>, such as <link url="https://en.wikipedia.org/wiki/Cheyenne_language">Cheyenne</link> and <link url="https://en.wikipedia.org/wiki/Totonac_language">Totonac</link>, contrast voiced and devoiced vowels. Vowels are devoiced in whispered speech. In Japanese and in <link url="https://en.wikipedia.org/wiki/Quebec_French">Quebec French</link>, vowels that are between voiceless consonants are often devoiced.</para>
+        </section>
+        <section id="import-auto-idm859306224">
+          <title>Other features</title>
+          <para id="import-auto-idm315029328">Some languages contrast between vowels made with the root of the tongue advanced or retracted, using or not secondary narrowings in the vocal tract or making tense or lax vowels.</para>
+        </section>
+      </section>
+      <section id="import-auto-idm739755328">
+        <title>Consonants</title>
+        <para id="import-auto-idm1173138064">Consonants are classified with base on:</para>
+        <list id="import-auto-idm1085336960" list-type="bulleted">
+          <item><link url="https://en.wikipedia.org/wiki/Manner_of_articulation">M</link><link url="https://en.wikipedia.org/wiki/Manner_of_articulation">anner of articulation</link> is how air escapes from the vocal tract when the consonant  sound is made. Manners include stops, fricatives, africates, laterals and nasals. </item>
+        </list>
+        <list id="import-auto-idm752372608" list-type="bulleted">
+          <item><link url="https://en.wikipedia.org/wiki/Place_of_articulation">P</link><link url="https://en.wikipedia.org/wiki/Place_of_articulation">lace of articulation</link> is where in the vocal tract the obstruction of the consonant occurs, and which speech organs are involved. Places include <link url="https://en.wikipedia.org/wiki/Bilabial_consonant">bilabial</link> (both lips), <link url="https://en.wikipedia.org/wiki/Alveolar_consonant">alveolar</link> (tongue against the gum ridge), and <link url="https://en.wikipedia.org/wiki/Velar_consonant">velar</link> (tongue against soft palate). </item>
+        </list>
+        <para id="import-auto-idm1083649712">While manner and place of articulation form the main features used to categorize consonants, several other features are also considered in finer analyses:</para>
+        <list id="import-auto-idm961047584" list-type="bulleted">
+          <item><link url="https://en.wikipedia.org/wiki/Phonation">P</link><link url="https://en.wikipedia.org/wiki/Phonation">honation</link> of a consonant is how the <link url="https://en.wikipedia.org/wiki/Vocal_cords">vocal cords</link> vibrate during the articulation. When the vocal cords vibrate fully, the consonant is called <link url="https://en.wikipedia.org/wiki/Voiced">voiced</link>. When they do not vibrate at all, it is <link url="https://en.wikipedia.org/wiki/Voiceless">voiceless</link>. </item>
+          <item><link url="https://en.wikipedia.org/wiki/Voice_onset_time">Vo</link><link url="https://en.wikipedia.org/wiki/Voice_onset_time">ice onset time</link> (VOT) indicates the timing of the interruption in relation to the onset of vocal fold vibration. </item>
+          <item><link url="https://en.wikipedia.org/wiki/Airstream_mechanism">A</link><link url="https://en.wikipedia.org/wiki/Airstream_mechanism">irstream mechanism</link> is how the air moving through the vocal tract is powered. Most languages have exclusively <link url="https://en.wikipedia.org/wiki/Pulmonic_egressive">pulmonic egressive</link> consonants, which use the lungs and diaphragm, but <link url="https://en.wikipedia.org/wiki/Ejective">ejectives</link>, <link url="https://en.wikipedia.org/wiki/Click_consonant">clicks</link>, and <link url="https://en.wikipedia.org/wiki/Implosive">implosives</link> use different mechanisms. </item>
+          <item><link url="https://en.wikipedia.org/wiki/Gemination">L</link><link url="https://en.wikipedia.org/wiki/Gemination">ength</link> is how long the obstruction of a consonant lasts. This feature is borderline distinctive in English, as in "wholly" [hoʊlli] vs. "holy" [hoʊli], but it can be more distinctive in other languages.</item>
+        </list>
+        <section id="import-auto-idm853102784">
+          <title>Manners of articulation</title>
+          <para id="import-auto-idm710050288">The main manners of articulation include:</para>
+          <list id="import-auto-idm863489808" list-type="bulleted">
+            <item><link url="https://en.wikipedia.org/wiki/Stop_consonant"><emphasis effect="bold">Stop</emphasis></link><emphasis effect="bold">. </emphasis> Involves momentary blocking of airflow the oral <link url="https://en.wikipedia.org/wiki/Vocal_tract">vocal tract</link>, and no nasal air flow. Examples include <link url="https://en.wikipedia.org/wiki/English_language">English</link> p t and b. All languages have stops. </item>
+          </list>
+          <list id="import-auto-idm337931136" list-type="bulleted">
+            <item><link url="https://en.wikipedia.org/wiki/Nasal_consonant"><emphasis effect="bold">Nasal</emphasis></link><emphasis effect="bold">.  </emphasis>  Air passes through the nose. The shape and position of the tongue determine the resonant cavity that gives different nasals their characteristic sounds. Examples include English m, n. Nearly all languages have nasals. </item>
+            <item><link url="https://en.wikipedia.org/wiki/Fricative_consonant"><emphasis effect="bold">Fricative</emphasis></link><emphasis effect="bold">. </emphasis>There is continuous frication (turbulent and <link url="https://en.wikipedia.org/wiki/Colors_of_noise">noisy</link> airflow) at the place of articulation. Examples include English f, s, v and z. Most languages have fricatives. Indigenous Australian languages are almost completely devoid of fricatives of any kind. </item>
+          </list>
+          <list id="import-auto-idm758004416" list-type="bulleted">
+            <item><link url="https://en.wikipedia.org/wiki/Sibilant_consonant"><emphasis effect="bold">Sibilant</emphasis></link><emphasis effect="bold">. </emphasis>A type of fricative where the airflow is guided by a groove in the tongue toward the teeth, creating a high-pitched and very distinctive sound. These are by far the most common fricatives and include English s and z. </item>
+          </list>
+          <list id="import-auto-idm946934560" list-type="bulleted">
+            <item>Lateral fricative. A rare type of fricative, where the frication occurs on one or both sides of the edge of the tongue. The "ll" of <link url="https://en.wikipedia.org/wiki/Welsh_phonology">Welsh</link> is a lateral fricative. </item>
+          </list>
+          <list id="import-auto-idm925045440" list-type="bulleted">
+            <item><link url="https://en.wikipedia.org/wiki/Affricate_consonant"><emphasis effect="bold">Affricate</emphasis></link>. Begins with a stop and continues as a fricative. The English letters ch  and j are affricates. Affricates are common but less common than fricatives. </item>
+            <item><link url="https://en.wikipedia.org/wiki/Flap_consonant"><emphasis effect="bold">Flap</emphasis></link><emphasis effect="bold">. </emphasis>Often called a tap, it is a momentary closure of the oral cavity. The "tt" of "utter" is a flap in North American English. </item>
+            <item><link url="https://en.wikipedia.org/wiki/Trill_consonant"><emphasis effect="bold">Trill</emphasis></link><emphasis effect="bold">. </emphasis> The articulator (usually the tip of the tongue) is vibrated by the airstream. The double "r" of <link url="https://en.wikipedia.org/wiki/Spanish_language">Spanish</link> "perro" is a trill. </item>
+            <item><link url="https://en.wikipedia.org/wiki/Approximant_consonant"><emphasis effect="bold">Approximant</emphasis></link>. There is very little constriction of the airflow. Examples include English w and r. </item>
+          </list>
+          <list id="import-auto-idm761351424" list-type="bulleted">
+            <item><link url="https://en.wikipedia.org/wiki/Lateral_consonant"><emphasis effect="bold">Lateral</emphasis></link><emphasis effect="bold">. </emphasis>Also called<emphasis effect="bold"/>lateral approximant, this is pronounced with the sides of the tongue. English l is a lateral. </item>
+          </list>
+        </section>
+        <section id="import-auto-idm1186787360">
+          <title>Places of articulation</title>
+          <para id="import-auto-idm942289040">The passive place of articulation is the place on the more stationary part of the vocal tract where the articulation occurs and can be anywhere from the lips, upper teeth, gums, or roof of the mouth to the back of the throat. The articulatory gesture of the active place of articulation involves the more mobile part of the vocal tract, typically some part of the tongue or lips.</para>
+          <figure id="import-auto-idm1177497312"><media id="import-auto-idm722196160" alt="">
+              <image mime-type="image/png" src="../../media/Image10-df18.png" height="226" width="181"/>
+            </media>
+          <caption>Places of articulation (passive and active). 1. Exo-labial, 2. Endo-labial, 3. Dental, 4. Alveolar, 5. Post-alveolar, 6. Pre-palatal, 7. Palatal, 8. Velar, 9. Uvular, 10. Pharyngeal, 11. Glottal, 12. Epiglottal, 13. Radical, 14. Postero-dorsal, 15. Antero-dorsal, 16. Laminal, 17. Apical, 18. Sub-apical. <link url="https://upload.wikimedia.org/wikipedia/commons/7/75/Places_of_articulation.svg">More details</link>.</caption></figure><para id="import-auto-idm754061056">With respect to the place of articulation, consonants are classified within the following major groups:</para>
+          <list id="import-auto-idm1202313216" list-type="bulleted">
+            <item>Bilabial. Produced with both lips. Ex: b, m, and p.</item>
+            <item>Labiodental. f and v are articulated by placing the upper teeth against the lower lip.</item>
+            <item>Interdental. "th"  as in think or as in the are pronounced by inserting the tip of the tongue between the teeth.</item>
+            <item>Alveolar. t, d, n, s, z, l, and r are produced with the tongue is raised towards the alveolar ridge. The tip of the tongue may touch the ridge (t, d, n), or the tip may be lowered so that air escapes over it (s, z). For l, the middle of the tongue is raised while air escapes around  its sides. For r, the tip of tongue is curled back behind the alveolar ridge, or bunched up behind the ridge and the air escapes through the central part of the mouth.</item>
+            <item>Palatal. j is produced by raising the front part of the tongue to the palate.</item>
+            <item>Velar. k and g  are produced by raising the back of the tongue to the soft palate or the soft palate.</item>
+            <item>Uvular. Some sounds are produced by raising the back of the tongue to the uvula. The 'r' in French and German may be an uvular trill. These do not normally occur in English.</item>
+            <item>Glottal. h results from the flow of air coming from an open glottis, past the tongue and lips as they prepare to pronounce the vowel that follows h. </item>
+          </list>
+        </section>
+      </section>
+    </section>
+    <section id="import-auto-idm962889312">
+      <title>Figure credits</title>
+      <para id="import-auto-idm321473872">Figure 1 by Dvortygirl, Mysid - FFT'd in baudline; original sound by DvortygirlThis file was derived from:En-us-it's all Greek to me.ogg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2524720</para>
+      <para id="import-auto-idm325973200">Figure 2 by International Phonetic Association.  http://www.internationalphoneticassociation.org/content/ipa-chart, available under a Creative Commons Attribution-Sharealike 3.0 Unported License. Copyright 2015.</para>
+      <para id="import-auto-idm844510592">Figure 3 by anonymous, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=221013</para>
+      <para id="import-auto-idm853034624">Figure 4 by Biomedizinische NMR Forschungs GmbH. http://www.biomednmr.mpg.de. CC BY-SA 3.0. Martin Uecker, Shuo Zhang, Dirk Voit, Alexander Karaus, Klaus-Dietmar Merboldt, and Jens Frahm, Real-time magnetic resonance imaging at a resolution of 20 ms, NMR in Biomedicine 23: 986–994 (2010) DOI:10.1002/nbm.1585. </para>
+      <para id="import-auto-idm311108336">Figure 5 by Peter238 - Own work, based on the formant chart in "Jonathan North Washington - Phonetic and Phonological Problems in Kyrgyz: A Fulbrighter's plans for gathering data in the field", page 10., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=39437469</para>
+      <para id="import-auto-idm930231824">Figure 6 by Kwamikagami - Copied from the 1949 Principles of the IPA, p. 6., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=56805128</para>
+      <para id="import-auto-idm748868768">Figure 7 by BadseedThis vector image was created with Inkscape. - Own work, data: see below, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3539944</para>
+      <para id="import-auto-idm943611344">Figure 8 by Kwamikagami - modified my file IPA vowel chart 2005.png, CC BY-SA 3.0, https://en.wikipedia.org/w/index.php?curid=46937434</para>
+      <para id="import-auto-idm333251696">Figure 9 by WellsTribute - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7452974</para>
+      <para id="import-auto-idm843668432">Figure 10 by WellsTribute - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7452931</para>
+      <para id="import-auto-idm956527776">Figure 11 by created by User:ish shwar (original .png deleted), .svg by Rohieb - sagittal section image based on Minifie et al. (1973:); articulation places are from Catford (1977), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1771968</para>
+    </section>
+  </content>
+</document>

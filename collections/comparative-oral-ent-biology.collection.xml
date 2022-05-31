@@ -1,0 +1,617 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col23864</md:content-id>
+  <md:title>Comparative Oral+ENT Biology</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  <md:uuid>330d6b90-e87c-4305-9737-f0b01ecaef7f</md:uuid>
+<md:slug>comparative-oral-ent-biology</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m65586"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction to the Mouth+ENT</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65633"/>
+        
+      
+    
+    
+      <col:module document="m65634"/>
+        
+      
+    
+    
+      <col:module document="m65635"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Development</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65884"/>
+        
+      
+    
+    
+      <col:module document="m65885"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Body Tissues</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65892"/>
+        
+      
+    
+    
+      <col:module document="m65893"/>
+        
+      
+    
+    
+      <col:module document="m65894"/>
+        
+      
+    
+    
+      <col:module document="m65895"/>
+        
+      
+    
+    
+      <col:module document="m65896"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Skull Evolution</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65903"/>
+        
+      
+    
+    
+      <col:module document="m65904"/>
+        
+      
+    
+    
+      <col:module document="m65905"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Human Skull</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65906"/>
+        
+      
+    
+    
+      <col:module document="m65907"/>
+        
+      
+    
+    
+      <col:module document="m65909"/>
+        
+      
+    
+    
+      <col:module document="m65913"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Ingestion</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65947"/>
+        
+      
+    
+    
+      <col:module document="m65949"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Mouth</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66000"/>
+        
+      
+    
+    
+      <col:module document="m66001"/>
+        
+      
+    
+    
+      <col:module document="m66004"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Biting</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66005"/>
+        
+      
+    
+    
+      <col:module document="m66015"/>
+        
+      
+    
+    
+      <col:module document="m66016"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Mouth Opening</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66359"/>
+        
+      
+    
+    
+      <col:module document="m66034"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Tooth Evolution</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66057"/>
+        
+      
+    
+    
+      <col:module document="m66058"/>
+        
+      
+    
+    
+      <col:module document="m66060"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Human Teeth</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66077"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Dental Development</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66312"/>
+        
+      
+    
+    
+      <col:module document="m66358"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Gingiva</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66361"/>
+        
+      
+    
+    
+      <col:module document="m66424"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Tooth Decay</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66729"/>
+        
+      
+    
+    
+      <col:module document="m66738"/>
+        
+      
+    
+    
+      <col:module document="m66757"/>
+        
+      
+    
+    
+      <col:module document="m66758"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Dentition</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m65587"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Dental Alignment</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66747"/>
+        
+      
+    
+    
+      <col:module document="m66794"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Tongue and Gustation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66806"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Salivation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66813"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Swallowing</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66843"/>
+        
+      
+    
+    
+      <col:module document="m66844"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Tonsils</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66845"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Respiration and Olfaction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66857"/>
+        
+      
+    
+    
+      <col:module document="m66858"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Voice and Speech</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66860"/>
+        
+      
+    
+    
+      <col:module document="m66861"/>
+        
+      
+    
+    
+      <col:module document="m66862"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Hearing and Balance</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m66859"/>
+        
+      
+    
+    
+      <col:module document="m66915"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>

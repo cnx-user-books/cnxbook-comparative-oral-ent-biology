@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Coming Soon!</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65587</md:content-id>
+  <md:title>Coming Soon!</md:title>
+  <md:abstract>Just a place holder to allow previewing the navigation bar. The system will not allow a collection to be published without having modules inside each of its subcollections.</md:abstract>
+  <md:uuid>5ffec3c1-ccde-4029-ab81-bb3efa2c46fb</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><!-- Insert module text here -->
+  Coming soon!</para></content>
+
+</document>
